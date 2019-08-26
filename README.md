@@ -1,1 +1,1 @@
-mnirb-mossparty-web
+mnirb-publish
